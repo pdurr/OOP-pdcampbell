@@ -1,7 +1,7 @@
 # OOP-pdcampbell
 OOP Design and Patterns
 
-##OOP and Design Patterns Spring 2024
+## OOP and Design Patterns Spring 2024
 | Name | Value |
 |:---|:---|
 | **Course** | CSCI375 - OOP and Design Patterns |
