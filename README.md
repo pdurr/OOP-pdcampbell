@@ -11,3 +11,15 @@ OOP Design and Patterns
 | **Mav Username**            | pdcampbell |
 | **GitHub Username**         | pdurr |
 | **Repository**          | https://github.com/pdurr/OOP-pdcampbell |
+
+## Assignments
+
+### Assignment 0
+| Name | Value |
+| :--- | :--- |
+| Name | Docker Setup and Github Excercise | 
+| Description | Setup and Kattis Problem |
+| Due Date | 31-Aug-2023 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/assignment/A0/assignments/python3/sorttwonumbers |
+| Self Grade | 90% Couldn't get kattis to work from cli |
+| Contents | Code, tests, screenshots |
