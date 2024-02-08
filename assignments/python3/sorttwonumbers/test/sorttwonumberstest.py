@@ -2,7 +2,7 @@
 
 import sys
 import unittest
-sys.path.append("..")
+sys.path.append("..")  # noqa: E402
 import sorttwonumbers  # noqa: E402
 
 
