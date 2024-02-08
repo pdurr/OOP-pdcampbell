@@ -1,10 +1,7 @@
-#! /usr/bin/env python3
-
 import sys
 import unittest
-
-sys.path.append("..")  # append parent folder into the system path
-import sorttwonumbers
+sys.path.append("..")
+import sorttwonumbers  # noqa: E402
 
 
 class Test(unittest.TestCase):
