@@ -6,6 +6,7 @@ import unittest
 sys.path.append("..")  # append parent folder into the system path
 import sorttwonumbers
 
+
 class Test(unittest.TestCase):
     def setUp(self):
         print('Running unittest on sorttwonumbers module')
