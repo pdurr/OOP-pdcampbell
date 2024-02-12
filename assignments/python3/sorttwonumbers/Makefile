@@ -6,7 +6,7 @@ all: solve test
 
 solve:
 	@echo "Running sorttwonumbers.py with sample input:"
-	$(PYTHON) sorttwonumbers.py solve 5 2
+	$(PYTHON) sorttwonumbers.py
 
 test:
 	@echo "Running unit tests:"
