@@ -14,6 +14,17 @@ OOP Design and Patterns
 
 ## Assignments
 
+### Assignment 1
+| Name | Value |
+| :--- | :--- |
+| Name | Python Fundamentals | 
+| Description | Real Python Review Quiz Screenshots|
+| Due Date | 13-Feb-2023 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/assignment/1/assignments/python3/A1-review |
+| Self Grade | 100% |
+| Contents | Screenshots of initial and final quiz attempts |
+
+
 ### Assignment 0
 | Name | Value |
 | :--- | :--- |
