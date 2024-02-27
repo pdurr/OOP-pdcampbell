@@ -1,11 +1,7 @@
 # provide path to where plantuml.jar is downloaded
 PLANTUML = java -jar ~/plantuml.jar
 DOCS = docs
-<<<<<<< Updated upstream
-PROBLEM = convex
-=======
 PROBLEM = polygon
->>>>>>> Stashed changes
 PYTHON = python3
 
 .PHONY: all
@@ -61,8 +57,4 @@ check-style:
 
 .PHONY: fix-style
 fix-style:
-<<<<<<< Updated upstream
 	autopep8 --in-place --recursive --aggressive --aggressive .
-=======
-	autopep8 --in-place --recursive --aggressive --aggressive .
->>>>>>> Stashed changes
