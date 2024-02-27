@@ -12,7 +12,20 @@ OOP Design and Patterns
 | **GitHub Username**         | pdurr |
 | **Repository**          | https://github.com/pdurr/OOP-pdcampbell |
 
+
 ## Assignments
+
+
+### Assignment 2
+| Name | Value |
+| :--- | :--- |
+| Name | Class and Object Oriented Design | 
+| Description | Kattis Problem Using OOD |
+| Due Date | 27-Feb-2024 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/assignment/2/assignments/python3/A2-OOD |
+| Self Grade | 90% Couldn't get kattis to work from cli and submit.py had too many errorrs for ci-cd |
+| Contents | Code, tests, uml, screenshots, etc. |
+
 
 ### Assignment 1
 | Name | Value |
