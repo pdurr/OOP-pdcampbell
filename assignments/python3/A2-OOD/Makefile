@@ -48,8 +48,7 @@ ifeq ($(wildcard ~/plantuml.jar), )
 	curl -L -o ~/plantuml.jar https://sourceforge.net/projects/plantuml/files/plantuml.jar/download
 endif
 	$(PLANTUML) uml/Polygon.plantuml
-	$(PLANTUML) uml/Main.plantuml
-	$(PLANTUML) uml/solution.plantuml
+	$(PLANTUML) uml/ConvexPolygonAreaCalculator.plantuml
 	@echo "UML diagrams created and saved in uml folder"
 
 .PHONY: check-style
