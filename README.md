@@ -15,6 +15,15 @@ OOP Design and Patterns
 
 ## Assignments
 
+### Assignment 3
+| Name | Value |
+| :--- | :--- |
+| Name | Unit testing Object-Oriented Programs | 
+| Description | Kattis Problem Using OOD and Unit Testing |
+| Due Date | 6-March-2024 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/assignment/3/assignments/python3/A3-unittesting |
+| Self Grade | 90% Couldn't get kattis to work from cli and submit.py had too many errorrs for ci-cd |
+| Contents | Code, tests, uml, screenshots, etc. |
 
 ### Assignment 2
 | Name | Value |
