@@ -1,0 +1,18 @@
+@startuml CostCalculator
+
+class CostCalculator {
+    - movie: Movie
+    - cost_cap: float
+
+    + __init__(movie: Movie, cost_cap: float) -> None
+    + movie: Movie
+    + movie(new_movie: Movie) -> None
+    + cost_cap: float
+    + cost_cap(new_cost_cap: float) -> None
+    + calculate_cost() -> float
+}
+
+CostCalculator --|> Movie
+CostCalculator --|> float
+
+@enduml
