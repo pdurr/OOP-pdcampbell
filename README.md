@@ -15,6 +15,16 @@ OOP Design and Patterns
 
 ## Assignments
 
+### Assignment 4
+| Name | Value |
+| :--- | :--- |
+| Name | Mocking and Hypothesis | 
+| Description | Kattis Problem Using OOD, Unit Testing, Property-based testing, Hypothesis and Mocking |
+| Due Date | 19-March-2024 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/assignment/4/assignments/python3/A4_mocking |
+| Self Grade | 90% Couldn't get kattis to work from cli and submit.py had too many errorrs for ci-cd |
+| Contents | Code, tests, uml, screenshots, etc. |
+
 ### Assignment 3
 | Name | Value |
 | :--- | :--- |
