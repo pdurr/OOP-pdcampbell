@@ -1,0 +1,9 @@
+@startuml
+class Polygon {
+    - vertices: List[Tuple[int, int]]
+
+    + __init__(vertices: List[Tuple[int, int]]) : None
+    + vertices : List[Tuple[int, int]]
+    + calculate_area() : float
+}
+@enduml
