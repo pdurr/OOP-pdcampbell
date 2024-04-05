@@ -15,6 +15,16 @@ OOP Design and Patterns
 
 ## Assignments
 
+### Assignment 5
+| Name | Value |
+| :--- | :--- |
+| Name | Weather App - JSON API | 
+| Description | Using OOD to create a weather app |
+| Due Date | 1-April-2024 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/assignment/5/assignments/python3/A5_WeatherApp |
+| Self Grade | 75% I could not get pdoc to work :( |
+| Contents | Code, tests, screenshots, etc. |
+
 ### Assignment 4
 | Name | Value |
 | :--- | :--- |
