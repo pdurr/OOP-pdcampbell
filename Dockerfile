@@ -3,11 +3,8 @@ FROM python:3
 RUN apt update \
   && apt install -y \
   g++ gcc make sqlite3 time curl git nano dos2unix \
-  net-tools iputils-ping iproute2 sudo gdb less \
-  && apt clean;
 
-# Install Java and Graphviz for plantuml
-RUN apt install default-jre graphviz -y
+  net-tools iputils-ping iproute2 sudo gdb less 
 
 ARG USER=user
 ARG UID=1000
