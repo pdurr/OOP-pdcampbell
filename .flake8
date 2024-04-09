@@ -2,3 +2,5 @@
 extend-ignore = E203
 exclude = .git,__pycache__,docs/source/conf.py,old,build,dist,kattis-cli
 max-complexity = 10
+max-line-length = 100
+

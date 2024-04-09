@@ -1,3 +1,4 @@
+
 TEST = pytest 
 TEST_ARGS = --verbose --color=yes
 TYPE_CHECK = mypy --strict --allow-untyped-decorators --ignore-missing-imports
@@ -15,9 +16,11 @@ type-check:
 style-check:
 	$(STYLE_CHECK) .
 
+
 # discover and run all tests
 .PHONY: run-test
 run-test:
+
 	$(TEST) $(TEST_ARGS) .
 
 .PHONY: clean
