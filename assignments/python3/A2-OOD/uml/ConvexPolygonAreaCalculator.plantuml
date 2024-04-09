@@ -1,0 +1,7 @@
+@startuml
+class ConvexPolygonAreaCalculator {
+    + read_input() : List[Polygon]
+    + print_output(areas: List[float]) : None
+    + main() : None
+}
+@enduml
