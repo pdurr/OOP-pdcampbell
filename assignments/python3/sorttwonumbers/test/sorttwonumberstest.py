@@ -2,9 +2,9 @@
 
 import sys
 import unittest
+sys.path.append("..")  # noqa: E402
+import sorttwonumbers  # noqa: E402
 
-sys.path.append("..")  # append parent folder into the system path
-import sorttwonumbers
 
 class Test(unittest.TestCase):
     def setUp(self):
@@ -30,6 +30,7 @@ class Test(unittest.TestCase):
 
     def tearDown(self):
         print('Done running unittest')
+
 
 if __name__ == "__main__":
     unittest.main()
