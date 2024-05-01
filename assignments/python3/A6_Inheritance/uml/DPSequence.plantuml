@@ -1,0 +1,7 @@
+@startuml
+actor User
+participant DataProcessor
+User -> DataProcessor: add_case(data)
+DataProcessor -> SampleAnalyzer: new SampleAnalyzer(data)
+DataProcessor <-- SampleAnalyzer: added
+@enduml

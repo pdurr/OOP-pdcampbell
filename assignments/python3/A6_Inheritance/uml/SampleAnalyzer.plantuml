@@ -1,0 +1,9 @@
+@startuml
+class SampleAnalyzer {
+    - data: List[int]
+    + __init__(data: List[int])
+    + min_value(): int
+    + max_value(): int
+    + range_value(): int
+}
+@enduml
