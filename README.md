@@ -15,6 +15,16 @@ OOP Design and Patterns
 
 ## Assignments
 
+### Assignment 6
+| Name | Value |
+| :--- | :--- |
+| Name | Inheritance | 
+| Description | Using OOD to solve Kattis problem "Statistics" |
+| Due Date | 15-April-2024 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/main/assignments/python3/A6_Inheritance |
+| Self Grade | 90% I could not get pycov to work. __init__.py was duplicating references...  |
+| Contents | Code, tests, screenshots, etc. |
+
 ### Assignment 5
 | Name | Value |
 | :--- | :--- |
