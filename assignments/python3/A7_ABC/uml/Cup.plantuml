@@ -1,0 +1,11 @@
+@startuml
+class Cup {
+    - _color: str
+    - _radius: int
+    __init__(color: str, radius: int)
+    + color: str
+    + radius: int
+    + __lt__(other: Cup): bool
+    + __str__(): str
+}
+@enduml
