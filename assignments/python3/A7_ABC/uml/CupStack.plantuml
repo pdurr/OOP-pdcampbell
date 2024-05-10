@@ -1,0 +1,13 @@
+@startuml
+class CupStack {
+    - _cups: list[Cup]
+    __init__()
+    + cups: list[Cup]
+    + add_cup(cup: Cup): None
+    + sort_cups(): None
+    + print_sorted_colors(): None
+    + read_input(): None
+    + solve(): None
+}
+CupStack -- Cup
+@enduml
