@@ -15,6 +15,16 @@ OOP Design and Patterns
 
 ## Assignments
 
+### Assignment 7
+| Name | Value |
+| :--- | :--- |
+| Name | Abstract Basr Class and Operator Overloading | 
+| Description | Using OOD, ABC and Operator Overloading to solve Kattis problem "Stacking Cups" |
+| Due Date | 10-May-2024 |
+| Location | https://github.com/pdurr/OOP-pdcampbell/tree/main/assignments/python3/A7_ABC |
+| Self Grade | 90% same problem as always...  |
+| Contents | Code, tests, screenshots, etc. |
+
 ### Assignment 6
 | Name | Value |
 | :--- | :--- |
